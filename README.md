@@ -1,2 +1,2 @@
 # Transparent ML
-Notebooks from the Course: An Introduction to Transparent Machine Learning by Alan Turing Institute
+Collab notebooks from the Course: An Introduction to Transparent Machine Learning by Alan Turing Institute
